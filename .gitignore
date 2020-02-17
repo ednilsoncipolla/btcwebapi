@@ -1,0 +1,16 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebApiBtc
+/.vscode
+/btc.CrossTalking/bin/Debug/netstandard2.0
+/btc.CrossTalking/obj
+/btc.Data/bin/Debug/netstandard2.0
+/btc.Data/obj
+/btc.Model/bin/Debug/netstandard2.0
+/btc.Model/obj
+/btc.Service/bin/Debug/netstandard2.0
+/btc.Service/obj
+/btc.WebApi/bin/Debug/netcoreapp3.1
+/btc.WebApi/obj
