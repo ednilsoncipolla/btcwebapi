@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\btcrio.Data\btcrio.Data.csproj" />
+    <ProjectReference Include="..\btcrio.Domain\btcrio.Domain.csproj" />
+    <ProjectReference Include="..\btcrio.Service\btcrio.Service.csproj" />
+  </ItemGroup>
+
+</Project>

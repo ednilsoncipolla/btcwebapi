@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btcrio.Application", "btcrio.Application\btcrio.Application.csproj", "{963AAC7B-A792-4E5A-A9F5-B4D029B94372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btcrio.Data", "btcrio.Data\btcrio.Data.csproj", "{C2142478-E5A0-4A62-B3B9-7189CA6FE12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btcrio.CrossTalkiing", "btcrio.CrossTalkiing\btcrio.CrossTalkiing.csproj", "{D7E9BA61-27A8-4956-8280-02E52CD85711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btcrio.Domain", "btcrio.Domain\btcrio.Domain.csproj", "{529D7731-ED76-4A94-9F92-8EE9A13571A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btcrio.Service", "btcrio.Service\btcrio.Service.csproj", "{A352D3E9-B033-4B58-B918-5939326BA2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963AAC7B-A792-4E5A-A9F5-B4D029B94372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963AAC7B-A792-4E5A-A9F5-B4D029B94372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963AAC7B-A792-4E5A-A9F5-B4D029B94372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963AAC7B-A792-4E5A-A9F5-B4D029B94372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2142478-E5A0-4A62-B3B9-7189CA6FE12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2142478-E5A0-4A62-B3B9-7189CA6FE12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2142478-E5A0-4A62-B3B9-7189CA6FE12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2142478-E5A0-4A62-B3B9-7189CA6FE12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E9BA61-27A8-4956-8280-02E52CD85711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E9BA61-27A8-4956-8280-02E52CD85711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E9BA61-27A8-4956-8280-02E52CD85711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E9BA61-27A8-4956-8280-02E52CD85711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529D7731-ED76-4A94-9F92-8EE9A13571A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529D7731-ED76-4A94-9F92-8EE9A13571A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529D7731-ED76-4A94-9F92-8EE9A13571A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529D7731-ED76-4A94-9F92-8EE9A13571A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A352D3E9-B033-4B58-B918-5939326BA2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A352D3E9-B033-4B58-B918-5939326BA2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A352D3E9-B033-4B58-B918-5939326BA2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A352D3E9-B033-4B58-B918-5939326BA2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A8654B-D23E-4B37-9857-FA31C92A4C3A}
+	EndGlobalSection
+EndGlobal

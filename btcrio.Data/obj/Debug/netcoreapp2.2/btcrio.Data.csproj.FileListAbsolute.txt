@@ -1,0 +1,13 @@
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\bin\Debug\netcoreapp2.2\btcrio.Domain.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\obj\Debug\netcoreapp2.2\btcrio.Data.AssemblyInfoInputs.cache
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\obj\Debug\netcoreapp2.2\btcrio.Data.AssemblyInfo.cs
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\obj\Debug\netcoreapp2.2\btcrio.Data.csprojAssemblyReference.cache
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\bin\Debug\netcoreapp2.2\btcrio.Data.deps.json
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\bin\Debug\netcoreapp2.2\btcrio.Data.runtimeconfig.json
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\bin\Debug\netcoreapp2.2\btcrio.Data.runtimeconfig.dev.json
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\bin\Debug\netcoreapp2.2\btcrio.Data.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\bin\Debug\netcoreapp2.2\btcrio.Data.pdb
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\bin\Debug\netcoreapp2.2\btcrio.Domain.pdb
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\obj\Debug\netcoreapp2.2\btcrio.Data.csproj.CopyComplete
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\obj\Debug\netcoreapp2.2\btcrio.Data.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.Data\obj\Debug\netcoreapp2.2\btcrio.Data.pdb

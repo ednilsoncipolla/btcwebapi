@@ -1,0 +1,7 @@
+C:\Users\Edy\source\repos\btcrio\btcrio.Domain\bin\Debug\netcoreapp2.2\btcrio.Domain.deps.json
+C:\Users\Edy\source\repos\btcrio\btcrio.Domain\bin\Debug\netcoreapp2.2\btcrio.Domain.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.Domain\bin\Debug\netcoreapp2.2\btcrio.Domain.pdb
+C:\Users\Edy\source\repos\btcrio\btcrio.Domain\obj\Debug\netcoreapp2.2\btcrio.Domain.AssemblyInfoInputs.cache
+C:\Users\Edy\source\repos\btcrio\btcrio.Domain\obj\Debug\netcoreapp2.2\btcrio.Domain.AssemblyInfo.cs
+C:\Users\Edy\source\repos\btcrio\btcrio.Domain\obj\Debug\netcoreapp2.2\btcrio.Domain.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.Domain\obj\Debug\netcoreapp2.2\btcrio.Domain.pdb

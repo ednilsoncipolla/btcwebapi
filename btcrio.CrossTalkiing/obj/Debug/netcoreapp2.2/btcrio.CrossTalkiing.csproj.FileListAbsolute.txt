@@ -1,0 +1,15 @@
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.Data.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.Domain.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.Service.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\obj\Debug\netcoreapp2.2\btcrio.CrossTalkiing.csprojAssemblyReference.cache
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\obj\Debug\netcoreapp2.2\btcrio.CrossTalkiing.AssemblyInfoInputs.cache
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\obj\Debug\netcoreapp2.2\btcrio.CrossTalkiing.AssemblyInfo.cs
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.CrossTalkiing.deps.json
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.CrossTalkiing.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.CrossTalkiing.pdb
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.Data.pdb
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.Domain.pdb
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\bin\Debug\netcoreapp2.2\btcrio.Service.pdb
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\obj\Debug\netcoreapp2.2\btcrio.CrossTalkiing.csproj.CopyComplete
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\obj\Debug\netcoreapp2.2\btcrio.CrossTalkiing.dll
+C:\Users\Edy\source\repos\btcrio\btcrio.CrossTalkiing\obj\Debug\netcoreapp2.2\btcrio.CrossTalkiing.pdb
